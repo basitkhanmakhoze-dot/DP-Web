@@ -1,0 +1,6 @@
+{
+  "name": "DP Web",
+  "description": "Create Professional Display Pictures in Seconds with AI background removal, photo enhancement, social media templates, stickers, frames, and HD export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
